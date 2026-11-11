@@ -182,3 +182,6 @@ DOMAIN,business-api.tiktok.com
 # GitLab：MCP 地址就是 gitlab.com 本站，加了会连带全部 gitlab.com 网页与 git 流量。
 # Claude 自己访问 gitlab.com 时由桌面版 AI 进程层兜住；其他程序维持 🚀 默认代理。
 # DOMAIN,gitlab.com
+
+# ── 指挥官 2026-11-12 裁决：facebook.com 改走 AI ──
+DOMAIN-SUFFIX,facebook.com
