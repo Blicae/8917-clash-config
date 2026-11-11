@@ -183,5 +183,8 @@ DOMAIN,business-api.tiktok.com
 # Claude 自己访问 gitlab.com 时由桌面版 AI 进程层兜住；其他程序维持 🚀 默认代理。
 # DOMAIN,gitlab.com
 
-# ── 指挥官 2026-11-12 裁决：facebook.com 改走 AI ──
+# ── 指挥官 2026-11-12 裁决：Facebook 系改走 AI ──
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
