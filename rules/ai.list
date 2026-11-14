@@ -191,3 +191,7 @@ DOMAIN-SUFFIX,fb.com
 
 # ── 指挥官 2026-11-15 裁决：Meta 登录与接口（meta.graph.meta.com 等）改走 AI ──
 DOMAIN-SUFFIX,meta.com
+
+# ── 指挥官 2026-11-15 裁决：Instagram 改走 AI（Meta 登录同出口，避免拆成两台设备）──
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
